@@ -9,3 +9,7 @@ Azure Repos - replaced VS Team Service;
 May want to use that to backup our private projects and make them searchable (add tag for each project or file; keep that in a project/file)
 Need to give it a try. 
 
+
+For quick private blog - 
+may keep this in azure storage, use https://azure.microsoft.com/en-us/features/storage-explorer/
+
