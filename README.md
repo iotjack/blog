@@ -1,5 +1,6 @@
 # blog
 text based blog
+
 **bold**
 
 ***bold and italic***
@@ -7,5 +8,5 @@ text based blog
 ### header 
 
 
-(markdown syntax)(https://www.markdownguide.org/basic-syntax/)
+[markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
