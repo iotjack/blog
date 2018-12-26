@@ -1,6 +1,11 @@
 # blog
 text based blog
-**temp**
- 
+**bold**
+
+***bold and italic***
 
 ### header 
+
+
+(markdown syntax)(https://www.markdownguide.org/basic-syntax/)
+
