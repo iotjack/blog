@@ -5,7 +5,7 @@ Q# - learn quantum computing
 https://blogs.msdn.microsoft.com/visualstudio/2018/11/16/learn-quantum-computing-with-the-quantum-katas/
 https://blogs.msdn.microsoft.com/visualstudio/2018/12/11/a-year-of-qsharp/
 
-Azure Repos - replaced VS Team Service; 
+### Azure Repos - replaced VS Team Service; 
 May want to use that to backup our private projects and make them searchable (add tag for each project or file; keep that in a project/file)
 Need to give it a try. 
 
