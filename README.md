@@ -20,4 +20,4 @@ There's no native support in markdown's syntax for indentation. But markdown all
 &nbsp;&nbsp;&nbsp;&nbsp;This will produce the space characters in the output
 ~~~
 will give you
-&nbsp;&nbsp;&nbsp;&nbsp;This will produce the space characters in the output
+&nbsp;&nbsp;&nbsp;&nbsp;This will produce the space characters in the output (but not here in github)
