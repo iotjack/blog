@@ -14,3 +14,10 @@ https://developer.ibm.com/node/2017/01/05/lets-code-it-static-site-generator/
 
 Hexo - https://github.com/hexojs/hexo
 
+
+There's no native support in markdown's syntax for indentation. But markdown allows inline html, so 
+~~~html
+&nbsp;&nbsp;&nbsp;&nbsp;This will produce the space characters in the output
+~~~
+will give you
+&nbsp;&nbsp;&nbsp;&nbsp;This will produce the space characters in the output
